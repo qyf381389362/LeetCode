@@ -1,0 +1,23 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "使用JavaScript刷LeetCode题目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qyf381389362/LeetCode.git"
+  },
+  "keywords": [
+    "js",
+    "leetcode"
+  ],
+  "author": "Michael Qin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qyf381389362/LeetCode/issues"
+  },
+  "homepage": "https://github.com/qyf381389362/LeetCode#readme"
+}
