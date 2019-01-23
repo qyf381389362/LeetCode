@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/qyf381389362/LeetCode/issues"
   },
-  "homepage": "https://github.com/qyf381389362/LeetCode#readme"
+  "homepage": "https://github.com/qyf381389362/LeetCode#readme",
+  "devDependencies": {}
 }
